@@ -1,0 +1,29 @@
+_repo: Wild-Apples_4066
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thoreau, Henry David
+    alias: Thoreau, Henry D. (Henry David)
+    birthdate: 1817
+    deathdate: 1862
+    gutenberg_agent_id: '54'
+    url: http://www.gutenberg.org/2009/agents/54
+    wikipedia: http://en.wikipedia.org/wiki/Henry_David_Thoreau
+description: A meditation on apples begins with a short history of the apple tree,
+  tracing its path from ancient Greece to America. Thoreau saw the apple as a perfect
+  mirror of man and eloquently lamented where they both were heading.
+gutenberg_issued: '2003-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4066'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Apples'
+- !lcc 'SB'
+- GITenberg
+title: Wild Apples
+url: http://www.gutenberg.org/ebooks/4066
