@@ -1,5 +1,8 @@
 _repo: Wild-Apples_4066
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Thoreau, Henry David
@@ -12,6 +15,8 @@ creator:
 description: A meditation on apples begins with a short history of the apple tree,
   tracing its path from ancient Greece to America. Thoreau saw the apple as a perfect
   mirror of man and eloquently lamented where they both were heading.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4066#Wild-Apples
 gutenberg_issued: '2003-05-01'
 gutenberg_type: Text
 identifiers:
